@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(to right, #f8cdda, #c77dff);
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #b5179e;
+}
+
+.navbar a {
+    color: white !important;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #000;
+}
+
+.btn-pink {
+    background-color: #ff4d6d;
+    color: white;
+}
+.about-box {
+    max-width: 650px;
+    background-color: #fff;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.about-text {
+    font-size: 18px;
+    line-height: 2;
+    color: #333;
+}
